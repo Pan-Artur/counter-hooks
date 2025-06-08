@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/counter-hooks/static/css/main.f855e6bc.css",
+    "main.js": "/counter-hooks/static/js/main.08a5f7e2.js",
+    "index.html": "/counter-hooks/index.html",
+    "main.f855e6bc.css.map": "/counter-hooks/static/css/main.f855e6bc.css.map",
+    "main.08a5f7e2.js.map": "/counter-hooks/static/js/main.08a5f7e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.08a5f7e2.js"
+  ]
+}
